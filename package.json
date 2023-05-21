@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "twind-intellisense",
+  "name": "twind-intellisense-fork",
   "displayName": "Twind Intellisense",
   "description": "Intelligent Twind tooling for VS Code",
   "version": "0.2.1",
   "preview": true,
-  "publisher": "sastan",
+  "publisher": "thebearingedge",
   "icon": "assets/logo.png",
   "galleryBanner": {
     "color": "#fcfcfc",

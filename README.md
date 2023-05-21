@@ -5,7 +5,6 @@
 Intelligent [Twind](https://twind.dev) tooling for VS Code
 
 [![MIT License](https://flat.badgen.net/github/license/tw-in-js/vscode-twind-intellisense)](https://github.com/tw-in-js/vscode-twind-intellisense/blob/main/LICENSE)
-[![Latest Release](https://vsmarketplacebadge.apphb.com/version/sastan.twind-intellisense.svg)](https://marketplace.visualstudio.com/items?itemName=sastan.twind-intellisense)
 [![Github](https://flat.badgen.net/badge/icon/tw-in-js%2Fvscode-twind-intellisense?icon=github&label)](https://github.com/tw-in-js/vscode-twind-intellisense)
 
 ![Demo](https://raw.githubusercontent.com/tw-in-js/vscode-twind-intellisense/main/assets/demo.gif)
